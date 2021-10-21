@@ -1,4 +1,4 @@
-baseURL = "http://harshitPortfolio.com"
+baseURL = "http://harshitportfolio.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
